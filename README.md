@@ -18,7 +18,7 @@ Js compression saves 51% :thinking:
 Why do I test it on 200kb? I can clearly see what takes a long time to load.
 When u know this u can take the next steps to give the user a nice experience.  
 
-Uncompressed loading speed
+Uncompressed loading speed 40s.
 ![](uncompressed.png)  
 
 Compressed loading speed 10s. :open_mouth:
