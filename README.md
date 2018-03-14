@@ -37,8 +37,11 @@ Js compression saves 51% :thinking:
 Why do I test it on 200kb? I can clearly see what takes a long time to load.
 When u know this u can take the next steps to give the user a nice experience.  
 
-It takes around 40s on 200kb.
+Uncompressed loading speed
 ![](uncompressed.png)  
 
-Compressed loading speed:
+Compressed loading speed 10s. :open_mouth:
 ![](compression.png)
+
+## Conclusion.
+After deployment make sure you can compress your files for beter :fire:performance:fire:
