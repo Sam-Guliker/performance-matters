@@ -16,3 +16,5 @@ Differences from actual Bootstrap documentation:
 - Install dependencies: `npm install`
 - Serve: `npm start`
 - Expose localhost: `npm run expose`
+
+The javascript-compression branch will show you my documentation about the performance.
