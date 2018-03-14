@@ -17,4 +17,4 @@ Differences from actual Bootstrap documentation:
 - Serve: `npm start`
 - Expose localhost: `npm run expose`
 
-The javascript-compression branch will show you my documentation about the performance.
+## The javascript-compression branch will show you my documentation about the performance.
