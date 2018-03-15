@@ -1,8 +1,6 @@
-# Performance matters
-
 ## Project setup
 
-This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
+This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages).
 
 Differences from actual Bootstrap documentation:
 
@@ -16,3 +14,18 @@ Differences from actual Bootstrap documentation:
 - Install dependencies: `npm install`
 - Serve: `npm start`
 - Expose localhost: `npm run expose`
+
+## Performance Matters
+In this file I'm working on making the documentation site of Bootstrap a bit faster.  
+
+How am I going to to do this? :thinking:
+
+* Compressing the css files.
+* Compressing the JS files.
+* Compressing images.
+* Loading fonts async.  
+
+I've made some branches which contain the the subjects of the list above.
+
+I unfortunately have errors with my node modules.
+![Errors](images/errors.png)
