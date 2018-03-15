@@ -10,7 +10,6 @@ Differences from actual Bootstrap documentation:
 - Templating is done with [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 ## Getting started
-
 - Install dependencies: `npm install`
 - Serve: `npm start`
 - Expose localhost: `npm run expose`
@@ -28,4 +27,4 @@ How am I going to to do this? :thinking:
 I've made some branches which contain the the subjects of the list above.
 
 I unfortunately have errors with my node modules.
-![Errors](images/errors.png)
+![Errors](errors.png)
