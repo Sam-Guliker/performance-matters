@@ -46,5 +46,5 @@ I used [Tinypng](tinypng.com)
 ![image compression](compression-image.png)
 
 ## Compression saving
-Thanks to the :panda: I saved 57%.
+Thanks to the :panda_face: I saved 57%.
 ![savedkbs](saved.png)
