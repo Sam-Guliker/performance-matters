@@ -44,6 +44,5 @@ I've made some branches which contain the the subjects of the list above.
 I unfortunately have errors with my node modules.
 ![Errors](errors.png)
 
-
 ## Conclusion.
 After deployment make sure you can compress your files for beter :fire:performance:fire:
