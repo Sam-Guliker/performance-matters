@@ -14,6 +14,7 @@ Differences from actual Bootstrap documentation:
 - Serve: `npm start`
 - Expose localhost: `npm run expose`
 
+<<<<<<< HEAD
 # Audit
 In this document I will tell abit about compression and how much it
 affects the performance. :smile:  
