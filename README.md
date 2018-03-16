@@ -20,7 +20,7 @@ affects the performance. :smile:
 De master branch is het gene waar ik niks heb aangepast.  
 Bij de javascript branch zit ook de image en css compression.  
 
-[Audit link](audit.md):eyes:
+[Audit link](audit.md) :eyes:
 
 ## How will I start?
 How am I going to to do this? :thinking:
