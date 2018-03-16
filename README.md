@@ -1,15 +1,3 @@
-# Audit
-In this document I will tell abit about compression and how much it
-affects the performance. :smile:  
-De master branch is het gene waar ik niks heb aangepast.  
-Bij de javascript branch zit ook de image en css compression.  
-
-## Image compression
-De image compression safes 50% of the total image size :thinking:
-
-## Css compression
-Css compression was almost 25% compressed the css. :thinking:
-
 ## Js compression
 Js compression saves 51% :thinking:
 ![js compression](js_compression.png)
