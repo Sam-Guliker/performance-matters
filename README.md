@@ -1,10 +1,18 @@
-# Image-compression
-I always ask myself to take a look at the compression of   images, is this a frontender's job or the designers job?   :thinking:  
+## Project setup
 
-After compressing the images it works a lot faster.  
-I used [Tinypng](tinypng.com)
-![image compression](compression-image.png)
+This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages).
 
-## Compression saving
-Thanks to the :panda: I saved 57%.
-![savedkbs](saved.png)
+Differences from actual Bootstrap documentation:
+
+- Added custom webfont
+- Removed third party scripts
+- The src directory is served with [Express](https://expressjs.com/).
+- Templating is done with [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+## Getting started
+- Install dependencies: `npm install`
+- Serve: `npm start`
+- Expose localhost: `npm run expose`
+
+## Audit
+[Audit link](audit.md)
