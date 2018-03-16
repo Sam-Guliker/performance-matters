@@ -28,20 +28,20 @@ How am I going to to do this? :thinking:
 * Compressing images.
 * Loading fonts async.  
 
+I've made some branches which contain the the subjects of the list above.
+
+
 ## Results
 The combined results gave me on 200kb 10s loading speed
-instead of 40. :mouth_open:
+instead of 40. :mouth_open:  
 
-## NPM errors
 Uncompressed loading speed 40s.
 ![uncompressed](uncompressed.png)  
 
-Compressed loading speed 10s.
+Compressed loading speed 10s.  
 ![compression](compression.png)
 
-
-I've made some branches which contain the the subjects of the list above.
-
+## NPM errors
 I unfortunately have errors with my node modules.
 ![Errors](errors.png)
 
