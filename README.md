@@ -7,9 +7,9 @@ bootstrap.css
 docs.css  
 
 ## Bootstrap
-Bootstrap compression saved 25%
+Bootstrap compression saved 25%  
 ![bootstrapcss](bootstrap-compressed.png)  
 
 ## Docs
-Docs compression saved 54.16%
+Docs compression saved 54.16%  
 ![bootstrapcss](docscss-compression.png)  
