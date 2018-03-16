@@ -28,16 +28,22 @@ How am I going to to do this? :thinking:
 * Compressing images.
 * Loading fonts async.  
 
+## Results
+The combined results gave me on 200kb 10s loading speed
+instead of 40. :mouth_open:
+
+Uncompressed loading speed 40s.
+![uncompressed](uncompressed.png)  
+
+Compressed loading speed 10s.
+![compression](compression.png)
+
+
 I've made some branches which contain the the subjects of the list above.
 
 I unfortunately have errors with my node modules.
 ![Errors](errors.png)
 
-## Image compression
-De image compression safes 50% of the total image size :thinking:
-
-## Css compression
-Css compression was almost 25% compressed the css. :thinking:
 
 ## Conclusion.
 After deployment make sure you can compress your files for beter :fire:performance:fire:
