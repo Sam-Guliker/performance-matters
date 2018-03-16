@@ -46,6 +46,3 @@ I unfortunately have errors with my node modules.
 
 ## Conclusion.
 After deployment make sure you can compress your files for beter :fire:performance:fire:
-
-## Audit
-[Audit link](audit.md)
