@@ -30,7 +30,6 @@ How am I going to to do this? :thinking:
 
 I've made some branches which contain the the subjects of the list above.
 
-
 ## Results
 The combined results gave me on 200kb 10s loading speed
 instead of 40. :mouth_open:  
@@ -47,3 +46,6 @@ I unfortunately have errors with my node modules.
 
 ## Conclusion.
 After deployment make sure you can compress your files for beter :fire:performance:fire:
+
+## Audit
+[Audit link](audit.md)
