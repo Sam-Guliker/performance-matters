@@ -32,6 +32,7 @@ How am I going to to do this? :thinking:
 The combined results gave me on 200kb 10s loading speed
 instead of 40. :mouth_open:
 
+## NPM errors
 Uncompressed loading speed 40s.
 ![uncompressed](uncompressed.png)  
 
